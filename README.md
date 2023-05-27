@@ -19,9 +19,9 @@ Esta plataforma es usada por muchos profesionales sin conocimientos en programac
 
 
 <p float="left">
-  <img src="(https://github.com/JDS1975/PEC3_Visualizacion/blob/main/Imagenes/Evoluci%C3%B3n%20usuarios%20internet%402x.png)" width="100" />
-  <img src="(https://github.com/JDS1975/PEC3_Visualizacion/blob/main/Imagenes/Evoluci%C3%B3n%20de%20la%20problaci%C3%B3n%402x.png)" width="100" /> 
-  <img src="(https://github.com/JDS1975/PEC3_Visualizacion/blob/main/Imagenes/Evoluci%C3%B3n%20del%20PIB%402x.png)" width="100" /> 
+  <img src="/https://github.com/JDS1975/PEC3_Visualizacion/blob/main/Imagenes/Evoluci%C3%B3n%20usuarios%20internet%402x.png" width="100" />
+  <img src="/https://github.com/JDS1975/PEC3_Visualizacion/blob/main/Imagenes/Evoluci%C3%B3n%20de%20la%20problaci%C3%B3n%402x.png" width="100" /> 
+  <img src="/https://github.com/JDS1975/PEC3_Visualizacion/blob/main/Imagenes/Evoluci%C3%B3n%20del%20PIB%402x.png" width="100" /> 
 </p>
 
 ![Texto alternativo](https://github.com/JDS1975/PEC3_Visualizacion/blob/main/Imagenes/Evoluci%C3%B3n%20de%20la%20problaci%C3%B3n%402x.png)
