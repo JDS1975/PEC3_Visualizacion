@@ -17,6 +17,12 @@ La visualización se ha realizado con Flourish. Flourish es una plataforma de vi
 Con esta plataforma no es necesario que el ususario programe nada para obtener unas visualizaaciones de calidad. La herramienta es gratuita aunque existe suscripción premium.
 Esta plataforma es usada por muchos profesionales sin conocimientos en programación como periodistas o cominicadores.
 
+
+## Presentación de la navegación / animación de la visualización creada.
+
+Se ha creado una primera slide dinámica donde se muestra la evolución de la conexiones individuales a internet donde se muestra el ranking por paises.
+Se ha explicado esta evolución en dos slides posteriores donde se muestra el incremento pobacional de los paises con la evolcion mas fuerte en la primera representación y el PIB de esos paises.
+
 <p float="left">
   <img src="https://github.com/JDS1975/PEC3_Visualizacion/blob/main/Imagenes/Evoluci%C3%B3n%20usuarios%20internet%402x.png" width="300" />
   <img src="https://github.com/JDS1975/PEC3_Visualizacion/blob/main/Imagenes/Evoluci%C3%B3n%20de%20la%20problaci%C3%B3n%402x.png" width="300" /> 
