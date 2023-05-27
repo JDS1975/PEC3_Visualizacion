@@ -15,6 +15,7 @@ Los datos han sido extraidos de Kaggle y la licencia de los mismos es publica. L
 
 La visualización se ha realizado con Flourish. Flourish es una plataforma de visusalización de datos la cual tambien permite la narración de historias tipo storytelling.
 Con esta plataforma no es necesario que el ususario programe nada para obtener unas visualizaaciones de calidad. La herramienta es gratuita aunque existe suscripción premium.
+Esta plataforma es usada por muchos profesionales sin conocimientos en programación como periodistas o cominicadores.
 
 
 URL de la historia
