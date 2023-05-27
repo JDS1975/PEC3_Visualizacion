@@ -29,7 +29,7 @@ Se ha explicado esta evolución en dos slides posteriores donde se muestra el in
   <img src="https://github.com/JDS1975/PEC3_Visualizacion/blob/main/Imagenes/Evoluci%C3%B3n%20del%20PIB%402x.png" width="300" /> 
 </p>
 
-
+##  Análisis de los elementos visuales usados: tipo de gráficos, interacción, colores, textos...
 
 
 
