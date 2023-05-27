@@ -3,7 +3,7 @@
 
 ## Origen y licencia de los datos:
 
-Los datos has sido extraidos de Kaggle y la licencia de los mismos es publica. Las URL de los tres dataset usados son:
+Los datos han sido extraidos de Kaggle y la licencia de los mismos es publica. Las URL de los tres dataset usados son:
 
 - https://www.kaggle.com/datasets/laurajaelk/poblacin-mundial-desde-1800
 
