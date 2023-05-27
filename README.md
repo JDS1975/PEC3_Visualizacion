@@ -18,7 +18,7 @@ Con esta plataforma no es necesario que el ususario programe nada para obtener u
 Esta plataforma es usada por muchos profesionales sin conocimientos en programación como periodistas o cominicadores.
 
 <p float="left">
-  <img src="(https://github.com/JDS1975/PEC3_Visualizacion/blob/main/Imagenes/Evoluci%C3%B3n%20usuarios%20internet%402x.png)" width="100" />
+  <img src="https://github.com/JDS1975/PEC3_Visualizacion/blob/main/Imagenes/Evoluci%C3%B3n%20usuarios%20internet%402x.png" width="100" />
   <img src="/ruta/a/la/segunda/imagen" width="100" /> 
 </p>
 
