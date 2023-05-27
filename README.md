@@ -31,7 +31,9 @@ Se ha explicado esta evolución en dos slides posteriores donde se muestra el in
 
 ##  Análisis de los elementos visuales usados: tipo de gráficos, interacción, colores, textos...
 
+Los tipos de gráficos creados han sido:
 
+- La evolución de las conexiones a internet se ha realizado con un gráfico de barras dinámico que va mostrando el ranking de los paises por año.
 
 https://github.com/JDS1975/PEC3_Visualizacion/blob/main/Imagenes/Evoluci%C3%B3n%20de%20la%20problaci%C3%B3n%402x.png
 
