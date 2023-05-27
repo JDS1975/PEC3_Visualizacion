@@ -1,4 +1,4 @@
-# PEC3_Visualizacion
+# PEC3_Visualización
 ## Título: 
 
 **Evolución de las suscripciones personales a internet por paises y factores que las han potenciado.**
