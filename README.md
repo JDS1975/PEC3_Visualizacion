@@ -48,5 +48,5 @@ Se aprecian dos aspectos importantes. El primero de ellos es que las potencias m
 
 
 
-# URL de la historia
+# URL de la visualización.
 https://public.flourish.studio/story/1930478/
