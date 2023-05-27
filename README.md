@@ -38,6 +38,10 @@ Los tipos de gráficos creados han sido:
 - El gráfico del **incremento poblacional por paises** es un gráfico de lineas y en ellas se muestran la evolución poblacional de los seis paises donde se ha apreciado un fuerte incremento en de las conexiones individuales a internet en los últimos años. El gráfico permite filtrar por paises y cada pais se diferencia por un color. También se muetran etiquetas para obtener mayor información visual.
 Pasando el mouse por enciam del gráfico se obtiene el valor del eje de las abcisas, el de las ordenadas y la categoría/país de donde se obtienen los datos.
 
+- En cuanto a la última slide se trata de un gráfico de lineas donde se muetsra la evolución del PIB de cada país desde 1990. Los paises representados al igual que en la slide anterior son aquellos que mayor impacto han tenido en la evolución del acceso a internet. Al igual que en el gráfico anterior cada pais esta representado por un color y pasando el mause por encima de cada linea se obtiene información de los datos representados. Esta plantilla permite tener encabezados con texto que ayude a comprender la visualización. Los ejes tienen su respetivo rótulo con la variable que representan.
+
+## Reflexiones finales sobre que explica y que aporta la visualización creada , qué formas narrativas y de captar la atención del usuario se han utilizado.
+
 
 https://github.com/JDS1975/PEC3_Visualizacion/blob/main/Imagenes/Evoluci%C3%B3n%20de%20la%20problaci%C3%B3n%402x.png
 
