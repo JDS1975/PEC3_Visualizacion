@@ -35,7 +35,9 @@ Los tipos de gráficos creados han sido:
 
 - **La evolución de las conexiones a internet** se ha realizado con un gráfico de barras dinámico que va mostrando el ranking de los paises por año. Se puede modificar el tiempo de reproducción si se desea, incluso realizar filtros del numero de barras que se desean mostrar. Los colores se determinan en base a las paletas de colores que la propia plataforma ofrece. Se asigna un color por barra. Es posible si se desea poner encabezados, títulos, etiquetas y textos que muestren la idea que se pretende transmitir.
 
-- El gráfico del **incremento poblacional por paises** es un gráfico de lineas y en ellas se muestran la evolución poblacional de los seis paises donde se ha apreciado un fuerte incremento en de las conexiones individuales a internet en lso últimos años.
+- El gráfico del **incremento poblacional por paises** es un gráfico de lineas y en ellas se muestran la evolución poblacional de los seis paises donde se ha apreciado un fuerte incremento en de las conexiones individuales a internet en los últimos años. El gráfico permite filtrar por paises y cada pais se diferencia por un color. También se muetran etiquetas para obtener mayor información visual.
+Pasando el mouse por enciam del gráfico se obtiene el valor del eje de las abcisas, el de las ordenadas y la categoría/país de donde se obtienen los datos.
+
 
 https://github.com/JDS1975/PEC3_Visualizacion/blob/main/Imagenes/Evoluci%C3%B3n%20de%20la%20problaci%C3%B3n%402x.png
 
