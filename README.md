@@ -17,6 +17,10 @@ La visualización se ha realizado con Flourish. Flourish es una plataforma de vi
 Con esta plataforma no es necesario que el ususario programe nada para obtener unas visualizaaciones de calidad. La herramienta es gratuita aunque existe suscripción premium.
 Esta plataforma es usada por muchos profesionales sin conocimientos en programación como periodistas o cominicadores.
 
+![Texto alternativo](https://github.com/JDS1975/PEC3_Visualizacion/blob/main/Imagenes/Evoluci%C3%B3n%20de%20la%20problaci%C3%B3n%402x.png)
+
+
+https://github.com/JDS1975/PEC3_Visualizacion/blob/main/Imagenes/Evoluci%C3%B3n%20de%20la%20problaci%C3%B3n%402x.png
 
 URL de la historia
 https://public.flourish.studio/story/1930478/
