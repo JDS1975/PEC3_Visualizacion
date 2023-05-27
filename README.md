@@ -28,22 +28,22 @@ Se ha creado una primera slide dinámica donde se muestra la evolución de la co
 Se ha explicado esta evolución en dos slides posteriores donde se muestra el incremento pobacional de los paises con la evolcion mas fuerte en la primera representación y el PIB de esos paises.
 </p>
 
-<p float="right">
+
   <img src="https://github.com/JDS1975/PEC3_Visualizacion/blob/main/Imagenes/Evoluci%C3%B3n%20usuarios%20internet%402x.png" width="300" />
   <img src="https://github.com/JDS1975/PEC3_Visualizacion/blob/main/Imagenes/Evoluci%C3%B3n%20de%20la%20problaci%C3%B3n%402x.png" width="300" /> 
   <img src="https://github.com/JDS1975/PEC3_Visualizacion/blob/main/Imagenes/Evoluci%C3%B3n%20del%20PIB%402x.png" width="300" /> 
-</p>
+
 
 ##  Análisis de los elementos visuales usados: tipo de gráficos, interacción, colores, textos...
 
 Los tipos de gráficos creados han sido:
-<p style="text-align: justify;">
-- **La evolución de las conexiones a internet** se ha realizado con un gráfico de barras dinámico que va mostrando el ranking de los paises por año. Se puede modificar el tiempo de reproducción si se desea, incluso realizar filtros del numero de barras que se desean mostrar. Los colores se determinan en base a las paletas de colores que la propia plataforma ofrece. Se asigna un color por barra. Es posible si se desea poner encabezados, títulos, etiquetas y textos que muestren la idea que se pretende transmitir.
+ 
+- <p style="text-align: justify;"> **La evolución de las conexiones a internet** se ha realizado con un gráfico de barras dinámico que va mostrando el ranking de los paises por año. Se puede modificar el tiempo de reproducción si se desea, incluso realizar filtros del numero de barras que se desean mostrar. Los colores se determinan en base a las paletas de colores que la propia plataforma ofrece. Se asigna un color por barra. Es posible si se desea poner encabezados, títulos, etiquetas y textos que muestren la idea que se pretende transmitir.</p>
 
-- El gráfico del **incremento poblacional por paises** es un gráfico de lineas y en ellas se muestran la evolución poblacional de los seis paises donde se ha apreciado un fuerte incremento en de las conexiones individuales a internet en los últimos años. El gráfico permite filtrar por paises y cada pais se diferencia por un color. También se muetran etiquetas para obtener mayor información visual.
+- <p style="text-align: justify;"> El gráfico del **incremento poblacional por paises** es un gráfico de lineas y en ellas se muestran la evolución poblacional de los seis paises donde se ha apreciado un fuerte incremento en de las conexiones individuales a internet en los últimos años. El gráfico permite filtrar por paises y cada pais se diferencia por un color. También se muetran etiquetas para obtener mayor información visual.</p>
 Pasando el mouse por enciam del gráfico se obtiene el valor del eje de las abcisas, el de las ordenadas y la categoría/país de donde se obtienen los datos.
 
-- En cuanto a la última slide se trata de un gráfico de lineas donde se muetsra la evolución del PIB de cada país desde 1990. Los paises representados al igual que en la slide anterior son aquellos que mayor impacto han tenido en la evolución del acceso a internet. Al igual que en el gráfico anterior cada pais esta representado por un color y pasando el mause por encima de cada linea se obtiene información de los datos representados. Esta plantilla permite tener encabezados con texto que ayude a comprender la visualización. Los ejes tienen su respetivo rótulo con la variable que representan.
+- <p style="text-align: justify;"> En cuanto a la última slide se trata de un gráfico de lineas donde se muetsra la evolución del PIB de cada país desde 1990. Los paises representados al igual que en la slide anterior son aquellos que mayor impacto han tenido en la evolución del acceso a internet. Al igual que en el gráfico anterior cada pais esta representado por un color y pasando el mause por encima de cada linea se obtiene información de los datos representados. Esta plantilla permite tener encabezados con texto que ayude a comprender la visualización. Los ejes tienen su respetivo rótulo con la variable que representan.
 </p>
 
 ## Reflexiones finales sobre que explica y que aporta la visualización creada , qué formas narrativas y de captar la atención del usuario se han utilizado.
