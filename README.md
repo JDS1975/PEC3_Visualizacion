@@ -47,7 +47,6 @@ Pasando el mouse por enciam del gráfico se obtiene el valor del eje de las abci
 Se aprecian dos aspectos importantes. El primero de ellos es que las potencias mundiales con un fuerte desarrollo en los últimos años tanto pobalcional como de producto interior bruto pasan a forma parte del top ten de paises con mayor acceso a internt. Tambíen potencias como EEUU, Alemania, Brasil o Japon que aunque no han tenido un fuerte creciemiento poblacional si lo han tenido en PIB y su desarrollo en acceso a medios tecnológicos han sido notables aunque los paises en desarrolo y con fuerte creciemto poblacional son los que mas impacto muestran en el acceso a internet.
 
 
-https://github.com/JDS1975/PEC3_Visualizacion/blob/main/Imagenes/Evoluci%C3%B3n%20de%20la%20problaci%C3%B3n%402x.png
 
-URL de la historia
+# URL de la historia
 https://public.flourish.studio/story/1930478/
