@@ -16,16 +16,17 @@ Los datos han sido extraidos de Kaggle y la licencia de los mismos es publica. L
 ## Herramienta con la cual se ha hecho. Características de esta herramienta.
 
 <p style="text-align: justify;">
- La visualización se ha realizado con Flourish. Flourish es una plataforma de visusalización de datos la cual tambien permite la narración de historias tipo storytelling.
+La visualización se ha realizado con Flourish. Flourish es una plataforma de visusalización de datos la cual tambien permite la narración de historias tipo storytelling.
 Con esta plataforma no es necesario que el ususario programe nada para obtener unas visualizaaciones de calidad. La herramienta es gratuita aunque existe suscripción premium.
 Esta plataforma es usada por muchos profesionales sin conocimientos en programación como periodistas o cominicadores.
 </p>
 
 
 ## Presentación de la navegación / animación de la visualización creada.
-
+<p style="text-align: justify;">
 Se ha creado una primera slide dinámica donde se muestra la evolución de la conexiones individuales a internet donde se muestra el ranking por paises.
 Se ha explicado esta evolución en dos slides posteriores donde se muestra el incremento pobacional de los paises con la evolcion mas fuerte en la primera representación y el PIB de esos paises.
+</p>
 
 <p float="right">
   <img src="https://github.com/JDS1975/PEC3_Visualizacion/blob/main/Imagenes/Evoluci%C3%B3n%20usuarios%20internet%402x.png" width="300" />
